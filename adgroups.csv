@@ -1,0 +1,21 @@
+"adgroup_id";"campaign_id";"adgroup_name";"target_audience";"daily_budget"
+1;1;"AdGroup 1.1";"Adults 25-34";500.0
+2;1;"AdGroup 1.2";"Adults 25-34";300.0
+3;2;"AdGroup 2.1";"Teens 13-19";700.0
+4;2;"AdGroup 2.2";"Teens 13-19";400.0
+5;3;"AdGroup 3.1";"Adults 35-44";600.0
+6;3;"AdGroup 3.2";"Adults 35-44";500.0
+7;4;"AdGroup 4.1";"Seniors 65+";800.0
+8;4;"AdGroup 4.2";"Seniors 65+";600.0
+9;5;"AdGroup 5.1";"Adults 18-24";700.0
+10;5;"AdGroup 5.2";"Adults 18-24";400.0
+11;6;"AdGroup 6.1";"Parents";400.0
+12;6;"AdGroup 6.2";"Parents";300.0
+13;7;"AdGroup 7.1";"Professionals";600.0
+14;7;"AdGroup 7.2";"Professionals";500.0
+15;8;"AdGroup 8.1";"Students";500.0
+16;8;"AdGroup 8.2";"Students";400.0
+17;9;"AdGroup 9.1";"Travelers";800.0
+18;9;"AdGroup 9.2";"Travelers";600.0
+19;10;"AdGroup 10.1";"Fitness Enthusiasts";900.0
+20;10;"AdGroup 10.2";"Fitness Enthusiasts";700.0
